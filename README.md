@@ -1,7 +1,7 @@
-📊 Superstore Sales EDA – Case Study
+#📊 Superstore Sales EDA – Case Study
 This project is a comprehensive Exploratory Data Analysis (EDA) of a Superstore sales dataset. The goal was to clean, transform, and analyze retail transaction data to uncover trends, inconsistencies, and actionable insights.
 
-📁 Dataset
+#📁 Dataset
 The dataset contains transactional sales data from a retail superstore, including:
 
 Order information
@@ -14,7 +14,7 @@ Product categories and pricing
 
 Profitability and discount metrics
 
-⚙️ Steps Performed
+#⚙️ Steps Performed
 Data Loading & Overview
 
 Inspected data types, missing values, and column summaries
@@ -63,7 +63,7 @@ Impact of discounts
 
 Time series analysis of sales & profit
 
-📊 Insights
+#📊 Insights
 Chairs and Phones were among the most profitable products.
 
 Same Day shipping orders had lower profit margins.
@@ -74,7 +74,7 @@ The top 20% of customers (Q5) contribute to the majority of sales and profits.
 
 There are seasonal spikes in sales during certain months.
 
-🚀 How to Run
+#🚀 How to Run
 Open the Superstore_EDA.ipynb in Jupyter or Google Colab.
 
 Upload the SuperStore_Dataset.csv file when prompted.
@@ -83,14 +83,14 @@ Run all cells (Runtime > Run All in Colab).
 
 Output will include charts, summaries, and cleaned data.
 
-🧹 Output
+#🧹 Output
 ✅ Cleaned Dataset (as CSV)
 
 📓 EDA Notebook (with reusable code)
 
 📄 Summary Report (PDF or README insights)
 
-🧠 Skills Applied
+#🧠 Skills Applied
 Data Cleaning & Wrangling (Pandas, NumPy)
 
 Data Visualization (Matplotlib, Seaborn)
