@@ -1,4 +1,4 @@
-#📊 Superstore Sales EDA – Case Study
+📊 #Superstore Sales EDA – Case Study
 This project is a comprehensive Exploratory Data Analysis (EDA) of a Superstore sales dataset. The goal was to clean, transform, and analyze retail transaction data to uncover trends, inconsistencies, and actionable insights.
 
 #📁 Dataset
